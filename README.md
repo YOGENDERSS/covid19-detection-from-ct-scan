@@ -94,10 +94,5 @@ More information can be found <a href="https://www.mathworks.com/help/deeplearni
 </ul>
 
 # Authors
-## Kaushik Jadhav
-<ul>
-<li>Github:https://github.com/kaushikjadhav01</li>
-<li>Medium:https://medium.com/@kaushikjadhav01</li>
-<li>LinkedIn:https://www.linkedin.com/in/kaushikjadhav01/</li>
-<li>Portfolio:http://kaushikjadhav01.github.io/</li>
-</ul>
+## Yogender Singh
+
